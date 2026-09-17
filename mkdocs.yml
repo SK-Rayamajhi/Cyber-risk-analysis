@@ -1,0 +1,14 @@
+site_name: Mathematical Cyber Risk Analytics
+site_description: Academic and practical curriculum for the mathematical analysis of cybersecurity risk.
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: deep-purple
+
+nav:
+  - Overview: index.md
+  - FAIR Framework: module1_fair.md
+  
